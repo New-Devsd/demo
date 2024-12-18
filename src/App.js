@@ -7,6 +7,8 @@ const data = [
   { id: 2, name: 'Ajay Shinde', amount: 31151, date: '11/12/2024' },
   { id: 3, name: 'Deepak Navle', amount: 31151, date: '12/12/2024' },
   { id: 4, name: 'Vinaya Rao Shinde', amount: 51151, date: '14/12/2024' },
+  { id: 4, name: 'Raju Rao', amount: 11151, date: '14/12/2024' },
+  { id: 4, name: 'Yogesh Rao', amount: 11151, date: '15/12/2024' },
 ];
 
 const amount = (amount) => {
